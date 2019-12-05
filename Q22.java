@@ -1,5 +1,5 @@
 /* Q22. what is this?
- -> this is a keyword which gives the address of the object which is currently under excution.
+ -> this is a keyword which gives the address of the object which is currently under execution.
 */
 class Q22
 {
