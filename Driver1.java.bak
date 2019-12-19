@@ -1,0 +1,10 @@
+class Driver1
+{
+	public static void main(String[] args)
+	{
+		A obj1=new A(45);
+	    System.out.println(obj1.getvalue());
+		obj1.setvalue(49);
+		System.out.println(obj1.getvalue());
+}
+}
